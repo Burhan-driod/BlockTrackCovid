@@ -4,7 +4,7 @@ This web application was developed with educational purpose in mind to demonstra
 
 You can deploy your own version by following the described steps here or simply use it with our online version at https://cov-stats.sign-web.app
 
-we will be using Replit to ease and only for demo.
+we will be using Replit to ease and only for demo. https://replit.com/~
 
 ## Installation
 
