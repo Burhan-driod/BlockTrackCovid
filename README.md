@@ -1,8 +1,10 @@
 # cov-stats
 
-This web application was developped with educational purpose in mind to demonstrate how easy it is to develop a web app integrating Waves Blockchain. 
+This web application was developed with educational purpose in mind to demonstrate how easy it is to develop a web app integrating Waves Blockchain. 
 
 You can deploy your own version by following the described steps here or simply use it with our online version at https://cov-stats.sign-web.app
+
+we will be using Replit to ease and only for demo.
 
 ## Installation
 
