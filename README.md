@@ -9,7 +9,7 @@ we will be using Replit to ease and only for demo. https://replit.com/~
 ## Installation
 
 ```
-git clone https://github.com/christopheSeeka/cov-stats.git
+git clone https://github.com/CodeWithBaig/BlockTrackCovid.git //https://github.com/christopheSeeka/cov-stats.git
 npm install
 ```
 
